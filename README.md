@@ -8,3 +8,8 @@ More details about the project: https://www.instructables.com/id/Motion-Triggere
 An aesthetically pleasing weather forecast for Raspberry Pi Zero W and Ili9341 based 2.8 inch TFT. The Raspberry Pi Zero W is a small computer with wireless and bluetooth capabilities. The weather data is retrieved from the internet and displayed on the AZ-Touchscreen. The touchscreen has a 2.8 inch TFT.
 
 More details about the project: https://www.hackster.io/hartmut-wendt/raspberry-pi-based-weather-station-a9a7dd
+
+# 3. Tape Measure Clock
+This project converts a normal measuring tape into a clock using Arduino Nano and Stepper Motors. The length on the tape indicates the time in hours. The tape measure is motorized and programmed to move over the course of the day to show the time in hours (inches).
+
+More details about the project: https://www.instructables.com/id/Time-Measure-Tape-Measure-Clock/
