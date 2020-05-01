@@ -45,12 +45,14 @@ This project is basically a tongue controlled mouse + keyboard. It makes use of 
 More details about the project: https://www.instructables.com/id/Tongue-Typing-With-a-Mouth-Mouse/
 
 # 10. Equalised Headphone Amp for Hearing Impaired
+This project is a headphone amplifier for people with hearing aids. The frequency can be adjusted based on the hearing aids. The circuit board is designed using Eagle. An equation is used to determine the frequency requirements for a particular hearing aid. The circuit is placed in a 3d printed box.  
 
-More details about the project: 
+More details about the project: https://www.instructables.com/id/Equalised-Headphone-Amp-for-Hearing-Impaired/
 
 # 11. MOLBED - Modular Low Cost Braille Electronic Display
+The goal of this project is to create an electronic Braille system that is affordable and can make this technology available to everyone. Each "dot" on a character module is made up of 2 3D printed parts (Body and Magnet holder), 2 M2 nuts, 2 magnets, and 0.1mm enameled wire. A controlling PCB also hold the bodies.
 
-More details about the project:
+More details about the project: https://www.instructables.com/id/MOLBED-Modular-Low-Cost-Braille-Electronic-Display/
 
 # 12. Laser Pen Sound Visualiser
 
