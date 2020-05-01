@@ -109,14 +109,17 @@ This project is a simple and functional way to test the moisture content of soil
 
 More details about the project: https://www.instructables.com/id/Easy-Soil-Moisture-Sensor-Arduino-7-Segment-Displa/
 
-# 23. Space Trash Game Using Arduino and OLED Display
+# 23. Space Trash Game 
+This is a space trash game played on an OLED display using Arduino Uno. Three push buttons are used for control. The code is written in Arduino IDE using the U8G2 library.
 
-More details about the project:
+More details about the project: https://www.instructables.com/id/Space-Trash-Game-Using-Arduino-and-OLED-Display/
 
-# 24. Breathalyzer Medallion
+# 24. Squirrel chasing robot
+This is a robot that chases squirrels. First, the nerf barrel with a motion detector rotates every 30 seconds(using a servomotor) from left, to center, then to right. If the robot detects a squirrel, stage one is initiated. The robot charges forward then retreats. If the squirrel is still detected, the robot fires a nerf dart towards it. If it persists, the robot blows up a balloon and (using a heated resistor) pops the balloon.
 
-More details about the project:
+More details about the project: https://www.instructables.com/id/Squirrel-Chasing-Robot/
 
-# 25. Fire Chasing Robot
+# 25. Autonomous Fire Fighter Robot
+It is a robot that autonomously detects and extinguishes fire. It uses a flame sensor for detection and arduino board for processing. Fire extinguisher along with an electronic valve(actuator) is used to extinguish the detected fire. The robot rotates while actively scanning for fire. This scanning is performed by sensors placed on the sides. When a fire is detected, it moves in the direction of fire an stops 30 cm in front of it and triggers the extinguisher to turn out the fire.
 
-More details about the project:
+More details about the project: https://www.instructables.com/id/Autonomous-Fire-Fighter-Robot/
