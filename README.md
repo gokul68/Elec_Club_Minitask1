@@ -95,16 +95,19 @@ This lightsaber is powered by a single 18650 Cell, and runs on an Arduino Nano. 
 More details about the project: https://www.instructables.com/id/Arduino-Powered-Lightsaber/
 
 # 20. Advanced Model Rocket Flight Computer
+This is a high-end model rocket flight computer. The flight computer has a 6 axis inertial measument unit to measure the rockets orientation, a very prescise barometer to determine how high the rocket went, 3 pyrotechnic channels to deploy parachutes, light a second stage motor, etc. It also has a communication LED and Buzzer so the person will know when the rockets about to launch.
 
-More details about the project:
+More details about the project: https://www.instructables.com/id/Advanced-Model-Rocket-Flight-Computer/
 
 # 21. Lego 4x4 Keypad Matrix
+This is a 4x4 keypad matrix to script shortcuts for a computer. This uses an Arduino Micro and 16 tactile buttons that are placed beneath the legos. Each button corresponds to a shortcut. The layout is 3d printed.
 
-More details about the project:
+More details about the project: https://www.instructables.com/id/Lego-4x4-Keypad-Matrix/
 
-# 22. Easy Soil Moisture Sensor Arduino 7 Segment Display
+# 22. Easy Soil Moisture Sensor 
+This project is a simple and functional way to test the moisture content of soil and display it without needing to have your Arduino connected to a computer. The output from the soil moisture sensor is displayed on a single digit 7 segment LED display.
 
-More details about the project:
+More details about the project: https://www.instructables.com/id/Easy-Soil-Moisture-Sensor-Arduino-7-Segment-Displa/
 
 # 23. Space Trash Game Using Arduino and OLED Display
 
