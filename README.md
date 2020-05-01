@@ -55,35 +55,65 @@ The goal of this project is to create an electronic Braille system that is affor
 More details about the project: https://www.instructables.com/id/MOLBED-Modular-Low-Cost-Braille-Electronic-Display/
 
 # 12. Laser Pen Sound Visualiser
+This project is basically a sound visualizer that uses a laser. A film is wrapped over a speaker and mirrors are placed in the middle of the film. A laser is pointed at these mirrors. As the music plays, the film will vibrate and a pattern will be created by the lasers.
 
-More details about the project:
+More details about the project: https://www.instructables.com/id/Laser-Pen-Sound-Visualiser/
 
 # 13. The Beauty of Math - Conway's Game of Life Art
+A visualizationn of John Conway's Game of Life on a 16x16 RGB LED display. The simulation is coded in python and is displayed on a 16x16 RGB LED display via Arduino Pro Mini.
 
-More details about the project:
+More details about the project: https://www.instructables.com/id/The-Beauty-of-Math-Conways-Game-of-Life-Art/
 
 # 14. DrumCube, an Arduino Robot Drummer
+This is a robot drummer. A servo motor moves the drumstick and is controlled by an Arduino Uno. The drumstick strikes a piezo crystal and the signal from the piezo crystal is amplified. 
 
-More details about the project:
+More details about the project: https://www.instructables.com/id/DrumCube-an-Arduino-Robot-Drummer/
 
 # 15. Ultrasonic Sound Gun (Parametric Speaker)
+A gun that shoots out a narrow beam of ultrasonic audio. The sound can only be heard by people inside the narrow beam, or through a nearby source when the audio gets demodulated. It works by taking an audio source, in this case a Bluetooth speaker circuit, which then gets modulated to 40khz through a 555 timer circuit. From the 555 timer the output gets amplified and then is then sent to an array of ultrasonic transducers. 
+
+More details about the project: https://www.instructables.com/id/Ultrasonic-Sound-Gun-Parametric-Speaker/
 
 # 16. Persistence of Vision Fidget Spinner
+This is a fidget spinner which uses Persistence of Vision effect which is an optical illusion whereby multiple discrete images blend into a single image in the human mind. The text or graphics can be changed via Bluetooth Low Energy link by using a freely available smartphone BLE app. It uses enhanced Microchip PIC 16F1619 microcontroller as its core.
 
-# 17. Burglar at the Door!
+More details about the project: https://www.instructables.com/id/Persistence-of-Vision-Fidget-Spinner/
+
+# 17. Burglar at the Door
+This project detects whether or not someone is trying to break into your home. It uses a proximity sensor concealed behind the doorbell. The signal from the proximity sensor is sent to the Particle Photon, a WiFi IoT device. If someone is at the door for too long, it sends a buzzer goes off.
+
+More details about the project: https://www.hackster.io/scozzy/burglar-at-the-door-f656fb
 
 # 18. A Smart Glove Computer Mouse
+This is a Smart Glove computer mouse. It's made using a Binho Nova multi-protocol USB host adapter, which lets you connect sensors and other components to your computer and then control them using code running on the computer (as opposed to programming a microcontroller). With this Smart Glove, you can move the mouse cursor around, left click, or right click. This can be adapted for a number of assistive mouse devices, such as a headband for those who don't have use of their hands.
 
-# 19. Arduino Powered RGB Lightsaber: With Sound Effects and Flash on Clash!
+More details about the project: https://www.hackster.io/cameroncoward/a-smart-glove-computer-mouse-cff373
 
-# 20. Advanced Model Rocket Flight Computer!
+# 19. Arduino Powered RGB Lightsaber: With Sound Effects 
+This lightsaber is powered by a single 18650 Cell, and runs on an Arduino Nano. The blade is RGB and can light any color you desire. The saber features sound effects as well as flash on clash, which adds to the awesomeness of this prop. 
+
+More details about the project: https://www.instructables.com/id/Arduino-Powered-Lightsaber/
+
+# 20. Advanced Model Rocket Flight Computer
+
+More details about the project:
 
 # 21. Lego 4x4 Keypad Matrix
 
+More details about the project:
+
 # 22. Easy Soil Moisture Sensor Arduino 7 Segment Display
+
+More details about the project:
 
 # 23. Space Trash Game Using Arduino and OLED Display
 
+More details about the project:
+
 # 24. Breathalyzer Medallion
 
+More details about the project:
+
 # 25. Fire Chasing Robot
+
+More details about the project:
